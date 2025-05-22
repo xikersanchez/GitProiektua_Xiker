@@ -1,1 +1,1 @@
-console.log('Kaixo XIKERetik');
+console.log('Kaixo MAINetik');
